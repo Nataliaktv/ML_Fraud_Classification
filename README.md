@@ -1,5 +1,6 @@
 # ML_Fraud_Classification
-Using Log.Regression, Random Forest, XGBoost to train model to predict fraudulent projects
+
+### Using Logistic Regression, Random Forest, XGBoost to train model to predict fraudulent projects
 
 
 The Company provides financing for Energy Efficient Home improvemnts. Company Operates in CA, FL and MO.
